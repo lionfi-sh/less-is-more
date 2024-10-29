@@ -1,0 +1,6 @@
+target/
+fly/
+*~
+bazel-*
+.DS_Store
+tmp/
